@@ -1,6 +1,8 @@
 # Registration Page
 
-A responsive registration page built as part of my frontend development training.
+A registration page built as part of my frontend development training.
+
+🔗 [Live Demo](https://izzz1989.github.io/page-registration/)
 
 ## Technologies
 
@@ -13,7 +15,7 @@ A responsive registration page built as part of my frontend development training
 - Registration form interface
 - Form validation with JavaScript
 - User input handling
-- Responsive page layout
+- DOM manipulation
 - Structured and organized project files
 
 ## Project Structure
